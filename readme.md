@@ -29,4 +29,4 @@ This project uses some third-party assets with a license that requires attributi
 Roboto Font: by [Christian Robertson](https://plus.google.com/110879635926653430880/about) ([Roboto at Google Fonts](https://fonts.google.com/specimen/Roboto))
 Raleway Font: by Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida and by Igino Marini ([Raleway at Google Fonts](https://www.google.com/fonts/specimen/Raleway))
 For additional information about the licenses, please see the dependency repositories.
-
+#PR Squash test Lab3
