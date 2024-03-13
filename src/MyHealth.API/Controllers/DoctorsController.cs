@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using MyHealth.API.AppExtensions;
 using System;
 
+//CRUD mapping is defined here
 namespace MyHealth.API.Controllers
 {
     [ResponseCache(Duration = 0, NoStore = true, VaryByHeader = "*")]
