@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using MyHealth.API.AppExtensions;
 using System;
 
+//CRUD mapped here
 namespace MyHealth.API.Controllers
 {
     [ResponseCache(Duration = 0, NoStore = true, VaryByHeader = "*")]
