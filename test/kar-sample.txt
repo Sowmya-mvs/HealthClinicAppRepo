@@ -1,4 +1,1 @@
 Test Sample File
-
-
-Added new lines in the Sample.txt file
