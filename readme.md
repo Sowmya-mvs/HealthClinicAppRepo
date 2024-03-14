@@ -1,6 +1,6 @@
 #My Health Clinic
 
-## Overview
+## Overview -sowmya done changes
 My Health Clinic, a sample application built for demo and training purposes, is for a fictious health care provider **HealthClinic.biz**. 
 HealthClinic.biz uses different Microsoft and multi-channel apps built with Visual Studio and Azure to grow their business and modernize their customer experience. 
 They also innovate and offer multiple apps and services—including websites, mobile apps, and wearable apps—to empower their patient’s well-being with easy access to manage their healthcare data and stay healthy.
@@ -28,5 +28,9 @@ This project uses some third-party assets with a license that requires attributi
 
 Roboto Font: by [Christian Robertson](https://plus.google.com/110879635926653430880/about) ([Roboto at Google Fonts](https://fonts.google.com/specimen/Roboto))
 Raleway Font: by Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida and by Igino Marini ([Raleway at Google Fonts](https://www.google.com/fonts/specimen/Raleway))
-For additional information about the licenses, please see the dependency repositories.
+For additional information about the licenses, please see the dependency repositories. 
+tst
+
+Text.......
+Text...update.
 
