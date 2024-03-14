@@ -1,3 +1,1 @@
 Test Sample File
-
-Added new lines to create a Conflict
